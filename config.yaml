@@ -1,5 +1,6 @@
+mixin:
 proxy-groups:
-  - name: 🎮 游戏平台
+  - name: '🎮 游戏平台'
     type: select
     proxies:
       - '🚀 节点选择'
