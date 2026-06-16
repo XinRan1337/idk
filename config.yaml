@@ -4,7 +4,6 @@ proxy-groups:
     type: select
     proxies:
       - '🎯 全球直连'
-      - '🚀 节点选择'
       - '上海电信转台湾BGP[M][Trojan][倍率:1]'
       - '上海电信转台湾BGP2[M][Trojan][倍率:1]'
       - '台湾HiNet[M][Trojan][测试][倍率:0.5]'
